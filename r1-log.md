@@ -10,3 +10,7 @@ Read the first three pages in introduction. It took me around 1.5 hours on read 
 [To the curriculum](https://www.theodinproject.com/paths/foundations/courses/foundations#introduction)
 
 ### R1D2
+Finished the introduction part. Moving on to installations. Somehow The Odin Project supports unix-based systems only. I am using Windows 10. Think whether I should use VM or dual-boot. (WSL is also not supported.)
+
+ [To the curriculum](https://www.theodinproject.com/paths/foundations/courses/foundations#installations)
+ 
