@@ -18,3 +18,12 @@ Finished the introduction part. Moving on to installations. Somehow The Odin Pro
 Installed VM and Xubuntu. Not in a great shape today.
 
 [Today's curriculum page](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/prerequisites)
+
+### R1D4
+Installed VSCode, Obsidian (my note taking app), Git and MS Edge on Xubuntu.  
+Also set up Chinese and Japanese input. I think these are my tools that I need for developing something on Xubuntu.
+
+Then I continued following the curriculum. Learning and revisiting HTML, CSS and JavaScript. These are the basics for the front end. The curriculum lead me to FreeCodeCamp's Responsive Web Design certificate. However, our goal is to go through HTML and CSS first. Today I finished the HTML courses and will move on to CSS tomorrow.  
+There are quite a lot of HTML tags that I don't know, such as `<kbd>`, `<main>`, `<rp>`.
+
+[Today's curriculum page](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-and-css-basics)
