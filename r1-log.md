@@ -27,3 +27,15 @@ Then I continued following the curriculum. Learning and revisiting HTML, CSS and
 There are quite a lot of HTML tags that I don't know, such as `<kbd>`, `<main>`, `<rp>`.
 
 [Today's curriculum page](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-and-css-basics)
+
+### R1D5 (2021/08/31, I didn't make progress during the weekend)
+completed Basic CSS and some of the Applied Visual Design section
+
+### R1D6 (2021/09/02)
+completed:
+- Applied Visual Design
+- Applied Accessibility
+- Responsive Web Design Principles
+- CSS Flexbox
+
+I felt excited when I was going through the CSS animations. It was amazing! However, is it commonly used in websites on the Internet? It seems to be resource-consuming...
