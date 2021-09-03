@@ -46,3 +46,9 @@ completed:
 - CSS Flexbox
 
 I felt excited when I was going through the CSS animations. It was amazing! However, is it commonly used in websites on the Internet? It seems to be resource-consuming...
+
+### R1D7 (2021/09/03)
+
+Completed the CSS Grid courses from freeCodeCamp. The courses from freeCodeCamp were part of the curriculum of "HTML and CSS Basics" in The Odin Project. After finishing "HTML and CSS Basics", I moved on to "Developer Tools" to learn about the Chrome develop tool (as I use MS Edge as main browser).
+
+I wished I knew CSS Flexbox and Grid earlier. It makes the stlying much more easier.
