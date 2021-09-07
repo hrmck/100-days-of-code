@@ -52,3 +52,15 @@ I felt excited when I was going through the CSS animations. It was amazing! Howe
 Completed the CSS Grid courses from freeCodeCamp. The courses from freeCodeCamp were part of the curriculum of "HTML and CSS Basics" in The Odin Project. After finishing "HTML and CSS Basics", I moved on to "Developer Tools" to learn about the Chrome develop tool (as I use MS Edge as main browser).
 
 I wished I knew CSS Flexbox and Grid earlier. It makes the stlying much more easier.
+
+### R1D8 (2021/09/04)
+
+I tried to rebuild Google's homepage without using developer tools to inspect the webpage.  
+Here is the [link to the project](https://github.com/hrmck/google-homepage)
+
+I am not familiar to CSS flexbox yet and the project took me around 4 hours.
+
+### R1D9 (2021/09/07)
+
+Following the curriculum of the Odin Project, today I started learning about JavaScript.
+
