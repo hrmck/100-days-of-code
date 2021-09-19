@@ -64,3 +64,9 @@ I am not familiar to CSS flexbox yet and the project took me around 4 hours.
 
 Following the curriculum of the Odin Project, today I started learning about JavaScript.
 
+
+### R1D10 (2021/09/19)
+
+I entered holiday mode recently...time to come back and continue...  
+Btw, the curriculum was changed a bit and some progress was lost!  
+Currently working on DOM manuplication in Foundations.
